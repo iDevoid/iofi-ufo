@@ -1,0 +1,78 @@
+{
+    "category": [
+        {
+            "name": "moe",
+            "title": "心臓発作に注意してください、萌えです!",
+            "voices": [
+                {
+                    "name": "nadenade",
+                    "path": "nadenade.mp3",
+                    "title": "おやすみ~ （なで） （なで）"
+                },
+                {
+                    "name": "uwusukidayo",
+                    "path": "uwusukidayo.mp3",
+                    "title": "わぁ~! （笑） 好きだよ~"
+                },
+                {
+                    "name": "ohayoslowly",
+                    "path": "ohayo-slowly.mp3",
+                    "title": "٩(ˊ〇ˋ*)و お〜は〜よ〜"
+                },
+                {
+                    "name": "hewwo",
+                    "path": "hewwo.mp3",
+                    "title": "こんうぃちわ〜 OwO"
+                },
+                {
+                    "name": "aliensorry",
+                    "path": "aliensorry.mp3",
+                    "title": "（宇宙人の悲し声） ごめんね ｍ(｡≧Д≦｡)ｍ"
+                }
+            ]
+        },
+        {
+            "name": "actadult",
+            "title": "ちっちゃい宇宙人がお姉さまのように振る舞う",
+            "voices": [
+                {
+                    "name": "araarasleeptogether",
+                    "path": "araarasleeptogether.mp3",
+                    "title": "あらあら, まだ起きてるの? 一緒に寝ようっか。"
+                },
+                {
+                    "name": "nadeganbattane",
+                    "path": "nadeganbattane.mp3",
+                    "title": "よしよし、なでなで、よくがんばったね、ねよう〜"
+                }
+            ]
+        },
+        {
+            "name": "ミーム",
+            "title": "ミームがこんなに可愛いわけがない!",
+            "voices": [
+                {
+                    "name": "tutturuwk",
+                    "path": "tutturuwk.mp3",
+                    "title": "tut turut tu tututu, tututu, （笑笑）"
+                }
+            ]
+        },
+        {
+            "name": "aliensound",
+            "title": "宇宙人の声です, 宇宙機関はこれを翻訳できません",
+            "voices": [
+                {
+                    "name": "uwauwa",
+                    "path": "uwauwa.mp3",
+                    "title": "うううわ ううっわああ, （笑う声）"
+                },
+                {
+                    "name": "gaoo",
+                    "path": "gaoo.mp3",
+                    "title": "（恐竜みたいな声、可愛いゴジラかな？）"
+                }
+            ]
+        }
+    ]
+}

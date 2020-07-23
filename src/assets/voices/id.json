@@ -1,0 +1,78 @@
+{
+    "category": [
+        {
+            "name": "moe",
+            "title": "Hati-hati serangan jantung, ini MOE!",
+            "voices": [
+                {
+                    "name": "nadenade",
+                    "path": "nadenade.mp3",
+                    "title": "Selamat tidur~ *elus* *elus*"
+                },
+                {
+                    "name": "uwusukidayo",
+                    "path": "uwusukidayo.mp3",
+                    "title": "Wa~! ehe Ku Suka Kamu~"
+                },
+                {
+                    "name": "ohayoslowly",
+                    "path": "ohayo-slowly.mp3",
+                    "title": "٩(ˊ〇ˋ*)و met~ pa~gi~"
+                },
+                {
+                    "name": "hewwo",
+                    "path": "hewwo.mp3",
+                    "title": "Hawo~ OwO"
+                },
+                {
+                    "name": "aliensorry",
+                    "path": "aliensorry.mp3",
+                    "title": "*suara alien bersedih* maap ｍ(｡≧Д≦｡)ｍ"
+                }
+            ]
+        },
+        {
+            "name": "actadult",
+            "title": "Alien cebol bergaya tante",
+            "voices": [
+                {
+                    "name": "araarasleeptogether",
+                    "path": "araarasleeptogether.mp3",
+                    "title": "ara ara, masih bangun? sini tidur bareng"
+                },
+                {
+                    "name": "nadeganbattane",
+                    "path": "nadeganbattane.mp3",
+                    "title": "*elus* *elus* Kamu dah lakuin yang terbaik. tidur yuk~"
+                }
+            ]
+        },
+        {
+            "name": "meme",
+            "title": "Meme gak mungkin seimut ini!",
+            "voices": [
+                {
+                    "name": "tutturuwk",
+                    "path": "tutturuwk.mp3",
+                    "title": "tut turut tu tututu, tututu, wkwkwk"
+                }
+            ]
+        },
+        {
+            "name": "aliensound",
+            "title": "Suara Alien dari Luar Angkasa, Belum ada Badan Antariksa yang dapat mengartikannya",
+            "voices": [
+                {
+                    "name": "uwauwa",
+                    "path": "uwauwa.mp3",
+                    "title": "uuuwa uuwwaaa, *terdengar tawaan*"
+                },
+                {
+                    "name": "gaoo",
+                    "path": "gaoo.mp3",
+                    "title": "*suara seperti dinosaurus, apa godzilla-imut?*"
+                }
+            ]
+        }
+    ]
+}

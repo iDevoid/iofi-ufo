@@ -1,0 +1,78 @@
+{
+    "category": [
+        {
+            "name": "moe",
+            "title": "Be carefull of heart attack, It's MOE!",
+            "voices": [
+                {
+                    "name": "nadenade",
+                    "path": "nadenade.mp3",
+                    "title": "Good Night~ *pat* *pat*"
+                },
+                {
+                    "name": "uwusukidayo",
+                    "path": "uwusukidayo.mp3",
+                    "title": "Wa~! ehe I Love You~"
+                },
+                {
+                    "name": "ohayoslowly",
+                    "path": "ohayo-slowly.mp3",
+                    "title": "٩(ˊ〇ˋ*)و good~ mor~ning~"
+                },
+                {
+                    "name": "hewwo",
+                    "path": "hewwo.mp3",
+                    "title": "Hewwo~ OwO"
+                },
+                {
+                    "name": "aliensorry",
+                    "path": "aliensorry.mp3",
+                    "title": "*sad alien noises* sorry ｍ(｡≧Д≦｡)ｍ"
+                }
+            ]
+        },
+        {
+            "name": "actadult",
+            "title": "Smol Alien Acting like an Adult",
+            "voices": [
+                {
+                    "name": "araarasleeptogether",
+                    "path": "araarasleeptogether.mp3",
+                    "title": "ara ara, still awake? let's sleep together"
+                },
+                {
+                    "name": "nadeganbattane",
+                    "path": "nadeganbattane.mp3",
+                    "title": "*pat* *pat* You did your best. let's sleep~"
+                }
+            ]
+        },
+        {
+            "name": "meme",
+            "title": "The Meme cannot be this cute!",
+            "voices": [
+                {
+                    "name": "tutturuwk",
+                    "path": "tutturuwk.mp3",
+                    "title": "tut turut tu tututu, tututu, lol"
+                }
+            ]
+        },
+        {
+            "name": "aliensound",
+            "title": "Alien Noises Sent From Space, No Space Agency can translate this",
+            "voices": [
+                {
+                    "name": "uwauwa",
+                    "path": "uwauwa.mp3",
+                    "title": "uuuwa uuwwaaa, *sound like laughing*"
+                },
+                {
+                    "name": "gaoo",
+                    "path": "gaoo.mp3",
+                    "title": "*sounds like dinosaur, or cute-godzilla?*"
+                }
+            ]
+        }
+    ]
+}

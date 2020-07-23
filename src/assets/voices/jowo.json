@@ -1,0 +1,78 @@
+{
+    "category": [
+        {
+            "name": "moe",
+            "title": "Ati-ati kenek jantungan, iki MOE cok!",
+            "voices": [
+                {
+                    "name": "nadenade",
+                    "path": "nadenade.mp3",
+                    "title": "Sugeng Sare~ *gosok* *gosok*"
+                },
+                {
+                    "name": "uwusukidayo",
+                    "path": "uwusukidayo.mp3",
+                    "title": "Wa~! ehe Aku Tresno Karo Kowe~"
+                },
+                {
+                    "name": "ohayoslowly",
+                    "path": "ohayo-slowly.mp3",
+                    "title": "٩(ˊ〇ˋ*)و su~geng~ en~jang~"
+                },
+                {
+                    "name": "hewwo",
+                    "path": "hewwo.mp3",
+                    "title": "Hawo~ OwO"
+                },
+                {
+                    "name": "aliensorry",
+                    "path": "aliensorry.mp3",
+                    "title": "*swarane alien nelongso* ngapunten ｍ(｡≧Д≦｡)ｍ"
+                }
+            ]
+        },
+        {
+            "name": "actadult",
+            "title": "Alien cebol gayane koyok mba ayu",
+            "voices": [
+                {
+                    "name": "araarasleeptogether",
+                    "path": "araarasleeptogether.mp3",
+                    "title": "ara ara, sek tangi? kene turu bareng"
+                },
+                {
+                    "name": "nadeganbattane",
+                    "path": "nadeganbattane.mp3",
+                    "title": "*gosok* *gosok* Kowe wes lakukno sing paling apik. turu yok~"
+                }
+            ]
+        },
+        {
+            "name": "meme",
+            "title": "Meme ra mungkin seimut iki!",
+            "voices": [
+                {
+                    "name": "tutturuwk",
+                    "path": "tutturuwk.mp3",
+                    "title": "tut turut tu tututu, tututu, wkwkwk"
+                }
+            ]
+        },
+        {
+            "name": "aliensound",
+            "title": "Swara e Alien teko njobo Angkoso, Ra onok Lembogo Antarikso sing iso ngartikno",
+            "voices": [
+                {
+                    "name": "uwauwa",
+                    "path": "uwauwa.mp3",
+                    "title": "uuuwa uuwwaaa, *mirip ngguyu*"
+                },
+                {
+                    "name": "gaoo",
+                    "path": "gaoo.mp3",
+                    "title": "*koyo suarane dinosaurus, opo godzilla-unyu?*"
+                }
+            ]
+        }
+    ]
+}
