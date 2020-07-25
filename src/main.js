@@ -5,7 +5,8 @@ import i18n from './i18n'
 import router from './router'
 import VueCookie from 'vue-cookie'
 import VueMasonry from 'vue-masonry-css'
- 
+import './registerServiceWorker'
+
 Vue.use(VueMasonry)
 Vue.use(VueCookie)
 Vue.config.productionTip = false

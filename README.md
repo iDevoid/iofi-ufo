@@ -7,10 +7,11 @@ The source code of [iofi.moe](https://iofi.moe) webpage, this is fan made and no
 
 ## This project uses pure VueJS Framework with some plugins and dependencies
 - [vue-cli-plugin-i18n](https://github.com/kazupon/vue-cli-plugin-i18n)
-- [vue-cli-plugins](https://github.com/vuetifyjs/vue-cli-plugins)
+- [vue-cli-plugins vuetify](https://github.com/vuetifyjs/vue-cli-plugins)
 - [vue-cli-plugin-router](https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-router)
 - [vue-cookie](https://github.com/alfhen/vue-cookie)
 - [vue-masonry-css](https://github.com/paulcollett/vue-masonry-css)
+- [vue-cli-plugin-pwa](https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-pwa)
 
 ## Current Language Supports:
 - English
