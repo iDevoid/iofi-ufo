@@ -28,6 +28,11 @@
                     "name": "aliensorry",
                     "path": "aliensorry.mp3",
                     "title": "*swarane alien nelongso* ngapunten ｍ(｡≧Д≦｡)ｍ"
+                },
+                {
+                    "name": "goodnightchu",
+                    "path": "goodnight - Toastie.mp3",
+                    "title": "Sugeng Sare〜 ( *¯ ³¯*)♡ *ummuah*"
                 }
             ]
         },
@@ -71,6 +76,17 @@
                     "name": "gaoo",
                     "path": "gaoo.mp3",
                     "title": "*koyo suarane dinosaurus, opo godzilla-unyu?*"
+                }
+            ]
+        },
+        {
+            "name": "dirtyjokes",
+            "title": "Alien ngomong guyonan kotore manungso",
+            "voices": [
+                {
+                    "name": "k-word",
+                    "path": "K-word - Khateas Raktea.mp3",
+                    "title": "iku iofi suk durung isa k*nt*l [mustine kontrol, cadel e loh cok.. wkwk]"
                 }
             ]
         }

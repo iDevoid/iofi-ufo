@@ -28,6 +28,11 @@
                     "name": "aliensorry",
                     "path": "aliensorry.mp3",
                     "title": "*sad alien noises* sorry ｍ(｡≧Д≦｡)ｍ"
+                },
+                {
+                    "name": "goodnightchu",
+                    "path": "goodnight - Toastie.mp3",
+                    "title": "Good Night〜 ( *¯ ³¯*)♡ *ummuah*"
                 }
             ]
         },
@@ -71,6 +76,17 @@
                     "name": "gaoo",
                     "path": "gaoo.mp3",
                     "title": "*sounds like dinosaur, or cute-godzilla?*"
+                }
+            ]
+        },
+        {
+            "name": "dirtyjokes",
+            "title": "Alien says human's dirty jokes",
+            "voices": [
+                {
+                    "name": "k-word",
+                    "path": "K-word - Khateas Raktea.mp3",
+                    "title": "iofi hasn't been able to d*ck it [mispronounced kontrol (control) as k*nt*l (d*ck)]"
                 }
             ]
         }

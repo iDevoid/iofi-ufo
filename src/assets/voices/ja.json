@@ -28,6 +28,11 @@
                     "name": "aliensorry",
                     "path": "aliensorry.mp3",
                     "title": "（宇宙人の悲し声） ごめんね ｍ(｡≧Д≦｡)ｍ"
+                },
+                {
+                    "name": "goodnightchu",
+                    "path": "goodnight - Toastie.mp3",
+                    "title": "おやすみ〜 ( *¯ ³¯*)♡ （ちゅう）"
                 }
             ]
         },
@@ -71,6 +76,17 @@
                     "name": "gaoo",
                     "path": "gaoo.mp3",
                     "title": "（恐竜みたいな声、可愛いゴジラかな？）"
+                }
+            ]
+        },
+        {
+            "name": "dirtyjokes",
+            "title": "宇宙人は人間の下ネタを言う",
+            "voices": [
+                {
+                    "name": "k-word",
+                    "path": "K-word - Khateas Raktea.mp3",
+                    "title": "イオフィはそれをまだ「ち＊ちん」できません。（読み間違い、kont*l 「ち＊ちん」じゃなくて、kontrol 「制御」です"
                 }
             ]
         }

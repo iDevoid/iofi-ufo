@@ -28,6 +28,11 @@
                     "name": "aliensorry",
                     "path": "aliensorry.mp3",
                     "title": "*suara alien bersedih* maap ｍ(｡≧Д≦｡)ｍ"
+                },
+                {
+                    "name": "goodnightchu",
+                    "path": "goodnight - Toastie.mp3",
+                    "title": "Selamat Tidur〜 ( *¯ ³¯*)♡ *ummuah*"
                 }
             ]
         },
@@ -71,6 +76,17 @@
                     "name": "gaoo",
                     "path": "gaoo.mp3",
                     "title": "*suara seperti dinosaurus, apa godzilla-imut?*"
+                }
+            ]
+        },
+        {
+            "name": "dirtyjokes",
+            "title": "Alien ngomong candaan kotor nya manusia",
+            "voices": [
+                {
+                    "name": "k-word",
+                    "path": "K-word - Khateas Raktea.mp3",
+                    "title": "itu iofi belum bisa k*nt*l [harus nya kontrol, si cadel]"
                 }
             ]
         }
