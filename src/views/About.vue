@@ -19,15 +19,19 @@ export default {
   },
   computed: {
     contributors() {
-      var vc = this.$root.$t("voice-clip");
+      var vc = " " + this.$root.$t("voice-clip");
       return [
         {
           name: "Raktea",
-          desc: "K-word " + vc
+          desc: "K-word" + vc
         },
         {
           name: "Toastie",
-          desc: "Goodnight muah " + vc
+          desc: "Goodnight muah" + vc
+        },
+        {
+          name: "Myucel",
+          desc: "Onii-sama Wake up" + vc
         }
       ]
     }
