@@ -1,0 +1,99 @@
+{
+    "category": [
+        {
+            "name": "萌",
+            "title": "小心融化，超萌der!",
+            "voices": [
+                {
+                    "name": "nadenade",
+                    "path": "nadenade.mp3",
+                    "title": "晚安~ *拍* *拍*"
+                },
+                {
+                    "name": "uwusukidayo",
+                    "path": "uwusukidayo.mp3",
+                    "title": "嗚哇~!  欸嘿~我愛你~"
+                },
+                {
+                    "name": "ohayoslowly",
+                    "path": "ohayo-slowly.mp3",
+                    "title": "٩(ˊ〇ˋ*)و 早~安阿~"
+                },
+                {
+                    "name": "hewwo",
+                    "path": "hewwo.mp3",
+                    "title": "哈囉~ OwO"
+                },
+                {
+                    "name": "aliensorry",
+                    "path": "aliensorry.mp3",
+                    "title": "*傷心的外星人聲音* 對噗起 ｍ(｡≧Д≦｡)ｍ"
+                },
+                {
+                    "name": "goodnightchu",
+                    "path": "goodnight - Toastie.mp3",
+                    "title": "晚安〜 ( *¯ ³¯*)♡ *親*"
+                },
+                {
+                    "name": "oniisamawakeup",
+                    "path": "wakeup oniisama - Myucel.mp3",
+                    "title": "葛格, 已經是早上了. 快醒醒~, 再不起來就要親你喔"
+                }
+            ]
+        },
+        {
+            "name": "actadult",
+            "title": "Smol Alien Acting like an Adult",
+            "voices": [
+                {
+                    "name": "araarasleeptogether",
+                    "path": "araarasleeptogether.mp3",
+                    "title": "Ara Ara~ 還沒睡? 我們一起睡吧"
+                },
+                {
+                    "name": "nadeganbattane",
+                    "path": "nadeganbattane.mp3",
+                    "title": "*拍* *拍* 辛苦惹 一起睡吧~"
+                }
+            ]
+        },
+        {
+            "name": "meme",
+            "title": "我的迷因不可能會這麼可愛!",
+            "voices": [
+                {
+                    "name": "tutturuwk",  
+                    "path": "tutturuwk.mp3",
+                    "title": "嘟 嘟嚕 嘟 嘟嘟嚕 嘟嘟嚕 , (笑)"
+                }
+            ]
+        },
+        {
+            "name": "aliensound",
+            "title": "太空傳來的外星人訊號, 沒有人能夠翻譯",
+            "voices": [
+                {
+                    "name": "uwauwa",
+                    "path": "uwauwa.mp3",
+                    "title": "嗚哇 嗚哇阿阿, *聽起來像是在笑*"
+                },
+                {
+                    "name": "gaoo",
+                    "path": "gaoo.mp3",
+                    "title": "*不知道是恐龍，還是可愛的哥吉拉？*"
+                }
+            ]
+        },
+        {
+            "name": "dirtyjokes",
+            "title": "外星人講笑話",
+            "voices": [
+                {
+                    "name": "k-word",
+                    "path": "K-word - Khateas Raktea.mp3",
+                    "title": "iofi 還沒辦法控制它 [雙關語，把 kontrol (control) 拼成 k*nt*l (d*ck)]"
+                }
+            ]
+        }
+    ]
+}
